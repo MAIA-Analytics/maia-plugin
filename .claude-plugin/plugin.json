@@ -18,5 +18,10 @@
     "site selection",
     "zoning",
     "maps"
-  ]
+  ],
+  "icon": "./logo.png",
+  "documentationUrl": "https://www.maia-analytics.com/docs/mcp/connect",
+  "supportUrl": "https://www.maia-analytics.com/docs/mcp/connect",
+  "privacyPolicyUrl": "https://www.maia-analytics.com/privacy",
+  "termsOfServiceUrl": "https://www.maia-analytics.com/terms"
 }
