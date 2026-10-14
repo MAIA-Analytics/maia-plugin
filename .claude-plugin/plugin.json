@@ -1,0 +1,22 @@
+{
+  "name": "maia",
+  "displayName": "MAIA",
+  "version": "1.0.0",
+  "description": "Geospatial research engine for US places: find parcels and properties that match your criteria, their owners, zoning and what is near them, as a map and a table.",
+  "author": {
+    "name": "MAIA Analytics",
+    "email": "support@maia-analytics.com",
+    "url": "https://www.maia-analytics.com"
+  },
+  "homepage": "https://www.maia-analytics.com/docs/mcp/connect",
+  "repository": "https://github.com/MAIA-Analytics/maia-plugin",
+  "license": "MIT",
+  "keywords": [
+    "geospatial",
+    "parcels",
+    "real estate",
+    "site selection",
+    "zoning",
+    "maps"
+  ]
+}

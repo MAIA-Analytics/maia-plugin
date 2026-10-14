@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "maia": {
+      "type": "http",
+      "url": "https://api.maia-analytics.com/mcp"
+    }
+  }
+}
